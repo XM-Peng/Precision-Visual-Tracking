@@ -12,4 +12,6 @@ How to run the code:
 
 Big thanks: Some code of our software has been borrowed from ICLK, GLOCAL-Net, and STARK. 
 
+An important notice: We are waiting for approval from our cooperating partner for releasing a key file.  
+
 
